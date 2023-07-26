@@ -39,6 +39,8 @@ The Geoapify API and geoViews Python library are used in tandem with the weather
 **Part 3:**
 *A new DataFrame that uses the Geoapify API to find the first hotel located within 10,000 metres of the given coordinates*
 
+![image](https://github.com/RachaelCaldwell/python-api-challenge/blob/main/starter_code/output_data/hotel_df.png?raw=true)
+
 **Part 4:**
 *A map that displays the hotel name and the country as additional information in the hover message for each city*
 ![image](https://github.com/RachaelCaldwell/python-api-challenge/blob/main/starter_code/output_data/map_plot_2.png?raw=true)
