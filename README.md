@@ -34,6 +34,8 @@ The Geoapify API and geoViews Python library are used in tandem with the weather
 **Part 2:**
 *A filtered DataFrame to showcase cities with ideal weather conditions*
 
+![image](https://github.com/RachaelCaldwell/python-api-challenge/assets/134207637/e4a2e596-b2dd-409a-a9ca-5af2dfabb2e5)
+
 **Part 3:**
 *A new DataFrame that uses the Geoapify API to find the first hotel located within 10,000 metres of the given coordinates*
 
