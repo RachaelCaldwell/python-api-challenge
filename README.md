@@ -29,6 +29,7 @@ The Geoapify API and geoViews Python library are used in tandem with the weather
 
 **Part 1:**
 *A map that displays a point for every city in the city_data_df DataFrame*
+![image](https://github.com/RachaelCaldwell/python-api-challenge/blob/main/starter_code/output_data/map_plot_1.png?raw=true)
 
 **Part 2:**
 *A filtered DataFrame to showcase ideal weather conditions*
